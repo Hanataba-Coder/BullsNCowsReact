@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BullsNCowsReact/precache-manifest.9e648ed4e843b95f05602f45689d9202.js"
+  "/BullsNCowsReact/precache-manifest.672f7f2834f7cff877a9e71cb64f553e.js"
 );
 
 self.addEventListener('message', (event) => {
