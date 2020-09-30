@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42a5c6d9da83c11d69e1bff44e05bf45",
+    "revision": "9d7ab8534cc9ecbbcd0c4794f93bdd62",
     "url": "/BullsNCowsReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BullsNCowsReact/static/css/2.847e01e0.chunk.css"
   },
   {
-    "revision": "d082dcfe7d4bcd584b67",
+    "revision": "264dc5d667743aa668bf",
     "url": "/BullsNCowsReact/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BullsNCowsReact/static/js/2.fa7781bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d082dcfe7d4bcd584b67",
-    "url": "/BullsNCowsReact/static/js/main.b9fbf575.chunk.js"
+    "revision": "264dc5d667743aa668bf",
+    "url": "/BullsNCowsReact/static/js/main.dc30dd88.chunk.js"
   },
   {
     "revision": "1d4c9aa664200421ff83",
