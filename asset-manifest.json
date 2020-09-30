@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BullsNCowsReact/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/BullsNCowsReact/static/js/main.b9fbf575.chunk.js",
+    "main.js.map": "/BullsNCowsReact/static/js/main.b9fbf575.chunk.js.map",
+    "runtime-main.js": "/BullsNCowsReact/static/js/runtime-main.3a425501.js",
+    "runtime-main.js.map": "/BullsNCowsReact/static/js/runtime-main.3a425501.js.map",
+    "static/css/2.847e01e0.chunk.css": "/BullsNCowsReact/static/css/2.847e01e0.chunk.css",
+    "static/js/2.fa7781bb.chunk.js": "/BullsNCowsReact/static/js/2.fa7781bb.chunk.js",
+    "static/js/2.fa7781bb.chunk.js.map": "/BullsNCowsReact/static/js/2.fa7781bb.chunk.js.map",
+    "index.html": "/BullsNCowsReact/index.html",
+    "precache-manifest.723ca4b9457afece85589568960606aa.js": "/BullsNCowsReact/precache-manifest.723ca4b9457afece85589568960606aa.js",
+    "service-worker.js": "/BullsNCowsReact/service-worker.js",
+    "static/css/2.847e01e0.chunk.css.map": "/BullsNCowsReact/static/css/2.847e01e0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/BullsNCowsReact/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fa7781bb.chunk.js.LICENSE.txt": "/BullsNCowsReact/static/js/2.fa7781bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a425501.js",
+    "static/css/2.847e01e0.chunk.css",
+    "static/js/2.fa7781bb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b9fbf575.chunk.js"
+  ]
+}
