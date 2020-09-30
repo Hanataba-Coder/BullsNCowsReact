@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94a5389a0766c74235fcbf1df9d531a8",
+    "revision": "42a5c6d9da83c11d69e1bff44e05bf45",
     "url": "/BullsNCowsReact/index.html"
   },
   {
